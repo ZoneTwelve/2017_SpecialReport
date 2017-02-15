@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>大稻埕實地訪查 活動照片</title>
+    <link rel="icon" href="images/favicon.ico">
+    <link href="./css/photo/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/photo/album.css" rel="stylesheet">
+	<style type="text/css">
+	.center{margin:auto;text-align:center;}
+	</style>
+	<script>
+	var caseId=1;
+	window.onload = function (){
+		MoreImages(caseId);
+	}
+	function MoreImages(num,i){
+		if(!i){
+			i=0;
+			document.getElementById("content").innerHTML+='<div class="row">';
+		}
+		else if(i<3)i++
+		document.getElementById("content").innerHTML += '<img src="./images/photo/w ('+caseId+')" alt="'+caseId+'" />';
+		caseId++;
+	}
+	</script>
+</head>
+
+<body>
+    <div class="navbar navbar-inverse bg-inverse">
+      <div class="container d-flex justify-content-between">
+        <a href="#" class="navbar-brand">活動照片</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </div>
+
+    <section class="jumbotron text-center">
+      <div class="container">
+        <h1 class="jumbotron-heading">大稻埕實地訪查 活動照片</h1>
+        <p class="lead text-muted">這些圖片皆是實地訪查時所拍攝的照片</p>
+      </div>
+    </section>
+	
+	<div id="centent" class="container center">
+		<div class="row">
+			<div class="col-4">
+				w
+			</div>
+			
+			<div class="col-4">
+				w
+			</div>
+			
+			<div class="col-4">
+				w
+			</div>
+		</div>
+	</div>
+	
+	<footer class="bd-footer text-muted">
+		<div class="container">		
+			<p class="float-right">
+			  <a href="#">Back to top</a>
+			</p>
+			<p>Copyright © 2017 <a href="https://GitHub.com/ZoneTwelve">ZoneTwelve</a> & <a href="https://www.taivs.tp.edu.tw">Daan Vocational High School Student</a> All rights reserved.</p>
+		</div>
+	</footer>
+</body>
+</html>
