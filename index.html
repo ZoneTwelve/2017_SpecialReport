@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)http://v4-alpha.getbootstrap.com/examples/offcanvas/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="./SpecialReport/images/favicon.ico">
+
+    <title>前進大稻埕</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./index/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="./index/offcanvas.css" rel="stylesheet">
+	<style>
+	.fixedStyle{
+		position:fixed;
+		top:auto;
+		left:-80px;
+		width:100px;
+		transition-duration: 0.3s;
+	}.fixedStyle:hover{
+		left:5px;
+	}
+	#iframe{
+		position:absolute;
+		top:0;
+		left:0;
+		width:100vw;
+		height:100vh;
+	}.list-group{
+		width:100px;
+		margin:auto;
+		text-align:center;
+	}#list{
+		background-color:#BEBEBE;
+		border-style: double;
+	}#list>#listGroup{
+		//border-style: double;
+		//border-style: ridge;
+	}
+	</style>
+	<script>
+		function call(id){
+			document.getElementById("iframe").src="./SpecialReport/"+id+".html";
+		}
+	</script>
+  </head>
+
+  <body>
+<iframe src="./SpecialReport/index.html" frameborder="0" id="iframe"></iframe>
+    <nav class="navbar navbar-toggleable-md fixed-top navbar-inverse bg-inverse">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="">大稻埕</a>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">首頁<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="http://www.taivs.tp.edu.tw">大安高工</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://github.com/ZoneTwelve">Github</a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <div class="row row-offcanvas row-offcanvas-right">
+		
+
+        <div id="list" class="fixedStyle col-6 col-md-3 sidebar-offcanvas" id="sidebar">
+          <div id="listGroup" class="list-group">
+            <a href="javascript:call('index');" class="list-group-item">關於<br/>大稻埕</a>
+            <a href="javascript:call('pageb')" class="list-group-item">大稻埕<br/>景點</a>
+            <a disabled="disabled" href="javascript:call('pagec');" class="list-group-item">休息站</a>
+            <a href="javascript:call('pagea');" class="list-group-item">大稻埕<br />小測驗</a>
+            <!-- <a href="" class="list-group-item">Link</a> -->
+            <!-- <a href="" class="list-group-item">Link</a> -->
+            <!-- <a href="" class="list-group-item">Link</a> -->
+            <!-- <a href="" class="list-group-item">Link</a> -->
+            <!-- <a href="" class="list-group-item">Link</a> -->
+            <!-- <a href="" class="list-group-item">Link</a> -->
+            <!-- <a href="" class="list-group-item">Link</a> -->
+          </div>
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <!-- <p>© Company 2017</p> -->
+      </footer>
+
+    </div><!--/.container-->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./index/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="./index/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="./index/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="./index/ie10-viewport-bug-workaround.js"></script>
+    <script src="./index/offcanvas.js"></script>
+  
+
+</body></html>
