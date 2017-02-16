@@ -1,0 +1,23 @@
+﻿			<h2><b>霞海城隍廟</b></h2><br />
+			<h3><b>地理介紹:</b></h3>
+			<b>
+				大稻埕的霞海城隍廟，位於台灣台北市迪化街上，廟地十分狹窄，
+				卻是大稻埕一帶地區的重要民間信仰中心，與法主真君廟、慈聖宮媽祖廟合稱「大稻埕三大廟」，
+				也是大台北相當重要的廟宇之一。
+			</b>
+			<hr />
+			<h3><b>特色:</b></h3>
+			<ul>
+				<b>
+					<li>1.宗教為道教及臺灣名間信仰（城隍信仰）結合，屬多神教。</li>
+					<li>2.主祀霞海城隍外，也旁祀城隍夫人、月下老人、八司官、文武判官、
+					范謝將軍（七爺八爺）、八將、馬使爺及義勇公。</li>
+					<li>3.容納600多尊各式神像，為特色之一。</li>
+				</b>
+			</ul>
+			<img src="./images/b4.jpg" class="img-responsive" alt="Xiá hǎi chénghuángmiào">
+			<br />
+			<div class="w100 center">
+				<b>霞海城皇廟外部景觀</b>
+			</div>
+			<small>Copyright © 2017 <a href="https://github.com/ZoneTwelve">ZoneTwelve</a></small>
