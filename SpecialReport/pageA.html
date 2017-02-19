@@ -10,21 +10,30 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css" />
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css" />
 	<script>
+	var point;
 	function SetTheAnswer(tagid,code){
 		document.getElementById(tagid).value = code;
 	}
 	function GetThePoint(){
-		var point=0;
+		point=0;
 		let answer = ["A","D","C","D"];
 		for(var i=1;i<=4;i++){
 			eval("var a = (document.getElementById('a"+i+"').value)")
 			if(a == "N")return alert("你第 "+i+" 題還沒回答到喔");
 			if(a == answer[i-1])point+=25;
 		}
-		document.getElementById("point").innerHTML = "<h1>你的分數是 <b>"+(point)+"</b> 分</h1><br />答案是:A,D,C,D <br /><small>Copyright © 2017 <a href='https://github.com/ZoneTwelve'>ZoneTwelve</a></small>";
+		document.getElementById("point").innerHTML = "<h1>你的分數是 <b id='yourpoint'>0</b> 分</h1><br />答案是:A,D,C,D <br /><small>Copyright © 2017 <a href='https://github.com/ZoneTwelve'>ZoneTwelve</a></small>";
+		var plusthepoint = setInterval(PlusThePoint,50);
+	}
+	function PlusThePoint(){
+		thisPoint = Number(document.getElementById("yourpoint").innerHTML);
+		if(thisPoint<point)
+			document.getElementById("yourpoint").innerHTML =thisPoint+1; 
+		else clearInterval(plusthepoint);
 	}
 	</script>
 	<style>
+	body{font-family: DFKai-sb;}
 	#main{background-image:url("images/main.jpg");color:white;text-shadow:2px 2px 5px black;background-size:cover;}
 	//#about{position:fixed;right:10%;}
 	</style>
@@ -36,7 +45,7 @@
 		<div class="container">
 			<h1 class="display-3">Hello 大稻埕!</h1>
 			<p>這是對於大稻埕所設計的一點小測驗<br />即時測驗即時知道你對大稻埕了解多少</p>
-			<small>Copyright © 2017 <a href="https://github.com/ZoneTwelve">ZoneTwelve</a></small>
+			
 			<!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
 		</div>
 	</div>
@@ -126,13 +135,13 @@
 <!-- Copyright © 2017 ZoneTwelve & Daan Vocational High School Student All rights reserved. -->
 					<br />
 					另外，位於南京西路上的大稻埕法主公廟，為1869年安溪茶商所建，
-					崇奉茶葉守護神法主真君，與大稻埕<b>霞海城隍廟</b>、大稻埕慈聖宮合稱大稻埕三大廟。
+					崇奉茶葉守護神法主真君，與大稻埕<code>霞海城隍廟</code>、大稻埕慈聖宮合稱大稻埕三大廟。
 					歷史慘劇二二八事件的原爆點，小販林江邁被毆處的天馬茶房，
 					即在法主公廟對面原美人座大酒家左邊騎樓柱，現址已改建成大樓。
 					<br />
 <!-- Copyright © 2017 ZoneTwelve & Daan Vocational High School Student All rights reserved. -->
 					<br />
-					霞海城隍廟除了主祀城隍爺，另旁祀城隍夫人、<b>月下老人</b>、八司官、
+					霞海城隍廟除了主祀城隍爺，另旁祀城隍夫人、<code>月下老人</code>、八司官、
 					文武判官、范謝將軍、八將，馬使爺及義勇公，
 					霞海城隍廟總共容納有600多尊各式神像，也成為其特色之一
 					<br />
@@ -147,7 +156,7 @@
 					事後，三邑人得勝，佔得了艋舺大部分利益，但他們並未依約幫助艋舺祖師廟的重建工作，
 					白隆發責問三邑人，三邑人只捐獻了一對龍柱，略表意思，白隆發也無可奈何，
 					只好向安溪人募款重建。不過三邑人好景不長，後來艋舺河沙淤積，不易停泊，
-					船隻大多改停大稻埕。大稻埕於是逐漸取代<b>艋舺</b>，成為北臺灣的商業貿易中心，
+					船隻大多改停大稻埕。大稻埕於是逐漸取代<code>艋舺</code>，成為北臺灣的商業貿易中心，
 					大稻埕同安人又得到了商利。
 				</p>
 			</div>
