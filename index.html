@@ -19,10 +19,12 @@
 	.fixedStyle{
 		position:fixed;
 		top:auto;
-		left:5px;
-		//left:-80px;
+		//left:5px;
+		left:-60px;
 		width:100px;
 		transition-duration: 0.3s;
+	}.fixedStyle:hover{
+		left:5px;
 	}
 	#iframe{
 		position:absolute;
@@ -35,8 +37,8 @@
 		margin:auto;
 		text-align:center;
 	}#list{
-		background-color:#BEBEBE;
-		border-style: double;
+		//background-color:#BEBEBE;
+		//border-style: double;
 	}#list>#listGroup{
 		//border-style: double;
 		//border-style: ridge;
@@ -47,7 +49,10 @@
 	</style>
 	<script>
 		function call(id){
+			console.log(id)
 			document.getElementById("iframe").src="./SpecialReport/"+id+".html";
+		}function callOut(id){
+			document.getElementById("iframe").src=id;
 		}
 	</script>
   </head>
@@ -63,14 +68,13 @@
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">首頁<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="javascript:callOut('http://www.taivs.tp.edu.tw/')">大安高工</a>
           </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="http://www.taivs.tp.edu.tw">大安高工</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://github.com/ZoneTwelve">Github</a>
-          </li>
+		  
+			<li class="nav-item active">
+			<a  class="nav-link" href="javascript:callOut('http://cyberfair.taiwanschoolnet.org/team/detail/C1735010076');">網界博覽會</a>
+			</li>
+  
         </ul>
         <!--form class="form-inline my-2 my-lg-0">
           <input class="form-control mr-sm-2" type="text" placeholder="Search">
@@ -89,9 +93,10 @@
             <a class="list-group-item">》</a>
             <a href="javascript:call('index');" class="list-group-item">關於<br/>大稻埕</a>
             <a href="javascript:call('pageb')" class="list-group-item">大稻埕<br/>景點</a>
-            <a disabled="disabled" href="javascript:call('photo');" class="list-group-item">活動的	<br />相片</a>
-            <a disabled="disabled" href="javascript:call('../report');" class="list-group-item">大稻埕	<br />簡報</a>
+            <a href="javascript:call('photo');" class="list-group-item">活動的	<br />相片</a>
+            <a href="javascript:call('../report');" class="list-group-item">大稻埕	<br />簡報</a>
             <a href="javascript:call('pagea');" class="list-group-item">大稻埕<br />小測驗</a>
+            <a href="javascript:call('about');" class="list-group-item">關於我們</a>
             <!-- <a href="" class="list-group-item">Link</a> -->
             <!-- <a href="" class="list-group-item">Link</a> -->
             <!-- <a href="" class="list-group-item">Link</a> -->
@@ -103,7 +108,6 @@
         </div><!--/span-->
       </div><!--/row-->
 
-      <hr>
 
       <footer>
         <!-- <p>© Company 2017</p> -->
