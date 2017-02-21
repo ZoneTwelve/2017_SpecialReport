@@ -70,25 +70,25 @@
 		"霞海城隍廟前的景觀",
 		"大稻埕知名的騎樓造型及古代貿易商行",
 		"大稻埕貿易商行",
-		"組員(左)與陳先生(右)",
+		"組員(右)與陳先生(左)",
 		"167.8與黃女士合影"
 	]
 	window.onload = function (){
 		MoreImages(caseId);
 	}
 	function MoreImages(i){
+	console.log(i)
 		var myrow = document.getElementsByClassName("row");
 		if(caseId==41){
-			alert("上一張是最後一組照片瞜w")
+			alert("這是最後一組照片瞜w")
 			return;
 		}
-		if(i==1){
+		if(i==3){
 			document.getElementById("content").innerHTML='<div class="row">'+document.getElementById("content").innerHTML;
 		}
 		myrow[myrow.length-1].innerHTML = '<div class="col-4"><img id="img'+caseId+'" class="w100" src="./images/photo/w ('+caseId+').jpg" alt="相片篩選中 ID:'+caseId+'" onerror="ImagesDebug(this.id)"/><p>'+json[caseId-1]+'</p></div>'+myrow[myrow.length-1].innerHTML;
 		caseId++;
-		if(i==3)document.getElementById("content").innerHTML+='</div>';
-		else return MoreImages(i+1);
+		if(i==1)document.getElementById("content").innerHTML='</div>'+document.getElementById("content").innerHTML;
 	}
 	function ImagesDebug(imgID){
 	var img = document.getElementById(imgID);
