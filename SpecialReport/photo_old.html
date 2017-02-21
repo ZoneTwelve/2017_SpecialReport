@@ -8,7 +8,6 @@
     <link href="./css/photo/bootstrap.min.css" rel="stylesheet">
     <link href="./css/photo/album.css" rel="stylesheet">
 	<style type="text/css">
-	body{font-family: DFKai-sb;}
 	.center{margin:auto;text-align:center;}
 	.GreenButton{background-color: #4CAF50;color:white;border: none;color: white;padding: 15px 40px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;}
 	.buttonStyle1{
@@ -83,9 +82,9 @@
 			return;
 		}
 		if(i==1){
-			document.getElementById("content").innerHTML='<div class="row">'+document.getElementById("content").innerHTML;
+			document.getElementById("content").innerHTML+='<div class="row">';
 		}
-		myrow[myrow.length-1].innerHTML = '<div class="col-4"><img id="img'+caseId+'" class="w100" src="./images/photo/w ('+caseId+').jpg" alt="相片篩選中 ID:'+caseId+'" onerror="ImagesDebug(this.id)"/><p>'+json[caseId-1]+'</p></div>'+myrow[myrow.length-1].innerHTML;
+		myrow[myrow.length-1].innerHTML += '<div class="col-4"><img id="img'+caseId+'" class="w100" src="./images/photo/w ('+caseId+').jpg" alt="相片篩選中 ID:'+caseId+'" onerror="ImagesDebug(this.id)"/><p>'+json[caseId-1]+'</p></div>';
 		caseId++;
 		if(i==3)document.getElementById("content").innerHTML+='</div>';
 		else return MoreImages(i+1);
@@ -114,9 +113,6 @@
         <h1 class="jumbotron-heading">大稻埕實地訪查 活動照片</h1>
         <p class="lead text-muted">這些圖片皆是實地訪查時所拍攝的照片</p>
       </div>
-	<div class="container center">
-		<div id="more" class="GreenButton buttonStyle1" onclick="MoreImages(1)">顯示更多</div>
-	</div>
     </section>
 	
 	<div id="content" class="container center">
@@ -133,6 +129,9 @@
 				<!-- w -->
 			<!-- </div> -->
 		</div>
+	</div>
+	<div class="container center">
+		<div id="more" class="GreenButton buttonStyle1" onclick="MoreImages(1)">顯示更多</div>
 	</div>
 	<footer class="bd-footer text-muted bottomTag">
 		<div class="container">		
