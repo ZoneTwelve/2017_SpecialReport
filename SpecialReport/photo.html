@@ -84,11 +84,12 @@
 			return;
 		}
 		if(i==3){
-			document.getElementById("content").innerHTML='<div class="row">'+document.getElementById("content").innerHTML;
+			//document.getElementById("content").innerHTML='<div class="row">'+document.getElementById("content").innerHTML;
 		}
 		myrow[myrow.length-1].innerHTML = '<div class="col-4"><img id="img'+caseId+'" class="w100" src="./images/photo/w ('+caseId+').jpg" alt="相片篩選中 ID:'+caseId+'" onerror="ImagesDebug(this.id)"/><p>'+json[caseId-1]+'</p></div>'+myrow[myrow.length-1].innerHTML;
 		caseId++;
 		if(i==1)document.getElementById("content").innerHTML='</div>'+document.getElementById("content").innerHTML;
+		if(i!=3)return MoreImages(i+1);
 	}
 	function ImagesDebug(imgID){
 	var img = document.getElementById(imgID);
