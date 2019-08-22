@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="臺灣資訊教育發展協會">
+<meta name="programer" content="alanchang15@gmail.com">
+<meta name="copyright" content="2019臺灣學校網界博覽會">
+<meta name="keywords" content="2019臺灣學校網界博覽會">
+<meta name="description" content="2019臺灣學校網界博覽會 ">
+<meta name="robots" content="NOODP">
+<meta property="og:title" content="2019 臺灣學校網界博覽會 - 秀出臺灣的生命與活力">
+<meta property="og:url" content="http://cyberfair.taiwanschoolnet.org/themes/2017/w">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/images/theme2019.jpg">
+<title>2019 臺灣學校網界博覽會 - 秀出臺灣的生命與活力</title>
+<link rel="shortcut icon" href="http://cyberfair.taiwanschoolnet.org/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/css/style.css">
+<link rel="stylesheet" href="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/fancybox/jquery.fancybox.css">
+<script>
+	var global = {
+	  baseUrl: 'http://cyberfair.taiwanschoolnet.org/',
+	  cyberfairEmail: 'cyberfair2019@taiwanschoolnet.org'
+	};
+	if (typeof document.location.origin == 'undefined') {
+	    document.location.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port: '');
+	}
+	</script><style>
+    area {
+        display: none;
+    }
+    :visited {
+        css declarations;
+    }
+    </style>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMXGSS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMXGSS');</script><!-- End Google Tag Manager --><div class="page">
+        <!-- Header
+        ============================================= -->
+        <div class="top-counter">
+<div id="top-search">
+    <searchbox-only></searchbox-only>
+</div>
+<div class="counting">參訪人數：2771024 / 線上人數：6</div>
+</div>
+<header id="header" class="full-header"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<div id="header-wrap">
+
+        <div class="container clearfix">
+
+            <div id="top-menu-trigger"><i class="icon-reorder"></i></div>
+
+            <!-- Logo
+            ============================================= -->
+            <div id="logo">
+                <a href="http://cyberfair.taiwanschoolnet.org/" class="standard-logo">
+                    <img src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/images/cyberfair2019.png" alt="2019 臺灣學校網界博覽會Logo"></a>
+</div>
+            <!-- #logo end -->
+
+            <!-- Primary Navigation
+            ============================================= -->
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            <nav id="top-menu" class="collapse navbar-collapse"><ul class="desktop">
+<li><a href="http://cyberfair.taiwanschoolnet.org/history"><span class="fa fa-history"></span>歷屆作品</a></li>
+    <li><a href="http://cyberfair.taiwanschoolnet.org/ceremony/index" target="_blank"><span class="fa fa-trophy"></span>頒獎典禮</a></li>
+    <li><a href="http://cyberfair.taiwanschoolnet.org/team/query"><span class="fa fa-search"></span>查詢隊伍</a></li>
+    <li><a href="http://cyberfair.taiwanschoolnet.org/team/workroom"><span class="fa fa-users"></span>隊伍工作室</a></li>
+</ul>
+<ul class="mobile">
+<li><a href="http://cyberfair.taiwanschoolnet.org/history"><span class="fa fa-history"></span>歷屆作品</a></li>
+    <li><a href="http://cyberfair.taiwanschoolnet.org/ceremony/index" target="_blank"><span class="fa fa-trophy"></span>頒獎典禮</a></li>
+    <li><a href="http://cyberfair.taiwanschoolnet.org/team/query"><span class="fa fa-search"></span>查詢隊伍</a></li>
+    <li><a href="http://cyberfair.taiwanschoolnet.org/team/workroom"><span class="fa fa-users"></span>隊伍工作室</a></li>
+</ul>
+<ul class="submenu">
+<li>
+        <div class="info">
+<span class="fa fa-child"></span><span>關於網界</span>
+</div>
+        <ul>
+<li><a href="/news">最新消息</a></li>
+            <li><a href="/origin">緣起</a></li>
+            <li><a href="/intro">活動介紹</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-bullseye"></span><span>活動辦法</span>
+</div>
+        <ul>
+<li><a href="/notice">我要報名</a></li>
+            <li><a href="/rule">參賽規則</a></li>
+            <li><a href="/mission">任務清單</a></li>
+            <li><a href="/category">競賽類別</a></li>
+            <li><a href="/reward">活動獎勵</a></li>
+            <li><a href="/schedule">賽程表</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-pencil-square-o"></span><span>成績評比</span>
+</div>
+        <ul>
+<li><a href="/mark">評比標準</a></li>
+            <li><a href="/score">如何評比</a></li>
+            <li><a href="http://score.taiwanschoolnet.org/2019/FinalGrade/SetFinalGrade.asp" target="_blank">決賽評審</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-globe"></span><span>國際網博</span>
+</div>
+        <ul>
+<li><a href="/n_notice">參賽辦法</a></li>
+            <li><a href="/n_sign">申請網站空間</a></li>
+            <li><a href="/n_response">回報確認名單</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-headphones"></span><span>服務專區</span>
+</div>
+        <ul>
+<li><a href="/thesis">網界相關專題學術論文</a></li>
+            <li><a href="/download">表單下載</a></li>
+            <li><a href="/right">認識智慧財產權</a></li>
+            <li><a href="/webnews">媒體消息</a></li>
+            <li><a href="/faq">FAQ</a></li>
+        </ul>
+</li>
+</ul></nav><!-- Top Search
+                ============================================= --><div class="search" id="top-search">
+                    <searchbox-only></searchbox-only>
+</div>
+                <!-- #top-search end -->
+            
+            <!-- #primary-menu end -->
+        </div>
+    </div>
+</header><!-- #header end --><div id="banner">
+            <div class="main">
+                <img src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/images/banner/banner-desktop.jpg" class="desktop-only"><img src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/images/banner/banner-mobile.jpg" class="mobile-only">
+</div>
+        </div>
+
+
+
+        <!-- Content
+        ============================================= -->
+        <section class="content"><div class="container clearfix">
+                <div class="mainContent">
+                    <h1>404找不到網頁</h1>
+                </div>
+
+                <!-- <div class="breadcrumb">{breadcrumb}</div> -->
+
+                <div class="sidebar">
+                	<ul class="submenu">
+<li>
+        <div class="info">
+<span class="fa fa-child"></span><span>關於網界</span>
+</div>
+        <ul>
+<li><a href="/news">最新消息</a></li>
+            <li><a href="/origin">緣起</a></li>
+            <li><a href="/intro">活動介紹</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-bullseye"></span><span>活動辦法</span>
+</div>
+        <ul>
+<li><a href="/notice">我要報名</a></li>
+            <li><a href="/rule">參賽規則</a></li>
+            <li><a href="/mission">任務清單</a></li>
+            <li><a href="/category">競賽類別</a></li>
+            <li><a href="/reward">活動獎勵</a></li>
+            <li><a href="/schedule">賽程表</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-pencil-square-o"></span><span>成績評比</span>
+</div>
+        <ul>
+<li><a href="/mark">評比標準</a></li>
+            <li><a href="/score">如何評比</a></li>
+            <li><a href="http://score.taiwanschoolnet.org/2019/FinalGrade/SetFinalGrade.asp" target="_blank">決賽評審</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-globe"></span><span>國際網博</span>
+</div>
+        <ul>
+<li><a href="/n_notice">參賽辦法</a></li>
+            <li><a href="/n_sign">申請網站空間</a></li>
+            <li><a href="/n_response">回報確認名單</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-headphones"></span><span>服務專區</span>
+</div>
+        <ul>
+<li><a href="/thesis">網界相關專題學術論文</a></li>
+            <li><a href="/download">表單下載</a></li>
+            <li><a href="/right">認識智慧財產權</a></li>
+            <li><a href="/webnews">媒體消息</a></li>
+            <li><a href="/faq">FAQ</a></li>
+        </ul>
+</li>
+</ul>
+</div>
+            </div>
+        </section><!-- #content end --><!-- Footer
+        ============================================= --><footer><div class="section-counter">
+                
+
+<div class="container clearfix">
+    <div class="container a-center">
+        <h1>
+<span class="num">2019</span>臺灣學校網界博覽會<span class="inline-block">參加隊伍數</span>
+</h1>
+        <div id="teamtCounter">
+            <div class="count-section">
+                <div class="counter">
+                    <span>國小組</span>
+                    <div class="count">58</div>
+                    
+                </div>
+                <div class="counter">
+                    <span>國中組</span>
+                    <div class="count">67</div>
+                    
+                </div>
+                <div class="counter">
+                    <span>高中組</span>
+                    <div class="count">233</div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>                </div>      	
+            <div class="footer-inner">
+                <div class="container clearfix">
+                    <div class="row">
+
+                        <div class="col-sm-4">
+                            <p><strong>網頁客服專線: </strong></p>
+                            <p>電話：(03)459-3388#23 徐小姐</p>
+                            <p>cyberfair2019@taiwanschoolnet.org</p>
+                                                    
+                        </div>
+                        <div class="col-sm-4">
+                            <p><strong>活動辦法洽詢：</strong></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                        </div>
+                        <div class="col-sm-4">
+                                                        <!-- <p>指導單位：教育部</p> -->
+                            <p>主辦單位：</p>
+                            <p>承辦單位：</p>
+                                                    </div>
+                    </div>                             
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container clearfix">
+                    <div class="copyright">© 2019 Taiwan School Cyberfair</div>
+                    <div class="counting">參訪人數：2771025 / 線上人數：6</div>                </div>
+            </div>        
+        </footer><!-- #footer end -->
+</div>
+
+</body>
+<!-- Owl Carousel Assets --><link href="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/css/owl.carousel.css" rel="stylesheet">
+<link href="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/css/owl.theme.css" rel="stylesheet">
+<script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/jquery.min.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/fancybox/jquery.fancybox.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/lib/bootstrap.min.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/modernizr.custom.min.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/owl.carousel.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/jquery.plugin.min.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/jquery.countdown.min.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/modules/site/js/jquery.cookie/jquery.cookie.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script><script type="text/javascript" src="/themes/2016/assets/js/jquery.counterup.min.js"></script><script type="text/javascript" src="http://cyberfair.taiwanschoolnet.org/themes/2019/assets/js/theme.js"></script><script type="text/javascript">
+jQuery(document).ready(function($) {
+    $('.counter .count').counterUp({
+        delay: 10,
+        time: 1000
+    });
+});
+</script>
+</html>

